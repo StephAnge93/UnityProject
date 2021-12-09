@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7cfc7918053704eab8d741aef1964b05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inventory: {fileID: 11400000, guid: 90d90460654214ae9bc71c03f2a3e575, type: 2}
+  - GridParent: {instanceID: 0}
+  - ShopItemPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
